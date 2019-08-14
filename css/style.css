@@ -13,7 +13,7 @@ section{
 	margin-left: auto;
 	margin-right: auto;
 /*	margin-top: 20px;*/
-	margin-bottom: 10px;
+	margin-bottom: 30px;
    border-radius: 80px;
 }
 
@@ -53,7 +53,7 @@ nav a{
 
 
 body, html {
-	background-color: #87e5ff;
+	background-color: #E80000;
 	 text-align: center;
   height: 100%;
   margin: 0;
@@ -76,7 +76,7 @@ body, html {
 
 
 .img-1 {
-  background-image: url("../img/back.jpg");
+  background-image: url("../img/unnamed.jpg");
   min-height: 100%;
 }
 
@@ -138,18 +138,19 @@ body, html {
 
   position: absolute;
  /* left: 50%;*/
-  top: 25%;
+  top: 40%;
   width: 100%;
   text-align: center;
-  color: #d5f7fd;
+  color: #E80000;
 }
 
 .caption0 span.border {
   background-color: #000000;
+
 	 text-align: center;
-       border-radius: 80px;
-  padding: 20px;
-  font-size: 70px;
+       border-radius: 100px;
+  padding: 30px;
+  font-size: 90px;
   letter-spacing: 8px;
 }
 
@@ -161,7 +162,7 @@ body, html {
   top: 50%;
   width: 100%;
   text-align: center;
-  color: #d5f7fd;
+  color: #E80000;
 }
 
 .caption span.border {
@@ -175,30 +176,36 @@ body, html {
 
 
 h1 {
-	  background-color: #d5f7fd;
+	  background-color: #ffffff;
   letter-spacing: 5px;
   text-transform: uppercase;
   font: 20px "Verdana";
-  color: #3d6eff;
+  color: #E80000;
 }
 
 
 h2 {
-	  background-color: #3d6eff;
+	  background-color: #ffffff;
   letter-spacing: 5px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 30px;
   text-transform: uppercase;
   font: 20px "Verdana";
-  color: #d5f7fd;
-      border-radius: 80px;
+  color: #E80000;
+      /* border-radius: 80px; */
 }
 
 
 
 h3 {
-	  background-color: #d5f7fd;
+	  background-color: #ffffff;
   letter-spacing: 5px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 30px;
   text-transform: uppercase;
   font: 20px "Verdana";
-  color: #3d6eff;
-      border-radius: 80px;
+  color: #E80000;
+      /* border-radius: 80px; */
 }
